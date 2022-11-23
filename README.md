@@ -1,3 +1,3 @@
 # testrepo
-Cpursera courses
+Coursera courses
 Test
